@@ -51,12 +51,7 @@
    pip install -r requirements.txt
    ```
 
-3. Получить бесплатный API-ключ на [OpenWeatherMap](https://openweathermap.org/api)
-4. Вставить API-ключ в код (в методе get_weather заменить строку):
-    ```bash
-   api_key = "YOUR_API_KEY"
-   ```
-5. Запустить приложение:
+3. Запустить приложение:
     ```bash
    python weather_app.py
    ```
